@@ -3,7 +3,8 @@ body
 	 text-align: center; 
 	 font-size: 1em; 
 	 font-family: verdana, tahoma, arial, helvetica, sans-serif;
-	}
+		color:red;
+}
 
 	img
 	{width:80%;
@@ -20,16 +21,16 @@ h2
 
 	
 a 
-	{color: black; 
+	{color: white; 
 	 font-size: 1em;
 	}
 
 	
 a:hover 
-	{color: white;
+	{color: red;
 	}
 li {
-color:red;
+color:white;
 }
 
 
